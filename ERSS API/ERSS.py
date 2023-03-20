@@ -19,8 +19,12 @@ def success():
         f = request.files['img']
         latitude = request.form.get('latitude')
         longitude = request.form.get('longitude')
+        print(".....")
+        print("...EMERGENCYY!!!...")
+        print(f"{longitude},{latitude}")
+        print(".....")
         f.save("image/"+f.filename)
-        return jsonify({'maybe': 'success', 'latitude': latitude, 'longitude': longitude})
+        return jsonify({'maybe': 'success'})
 
 
 # driver function
