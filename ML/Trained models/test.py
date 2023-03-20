@@ -1,3 +1,5 @@
+#the following code is to test the models we created 
+
 import pickle
 import skimage.io as io
 import os
