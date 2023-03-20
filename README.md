@@ -8,3 +8,4 @@ A citizen centric app which will enable people to register any road safety probl
 
 
 # APK
+To download the APK of our application you can visit our website.
