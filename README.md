@@ -38,4 +38,4 @@ A user posting a valid complain photo request from Gomti Nagar Extension Lucknow
 You can download the apk file and run the application from the apk  file uploaded in this section.
 
 # Note
-Please give a considerate time to app after giving location permission as it is slow to fetch the device location.
+Please give a considerate time to app after giving location permission as it is slow to fetch the device location for now.
