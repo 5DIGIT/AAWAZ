@@ -5,6 +5,7 @@ To get started with out application you must first download the APK.
 
 # APK
 To download the APK of our application you can visit our website.
+All the files of this application can be found on the Android branch of this repository.
 
 # ML
 Our pre-trained models are available in the ML folder. These models can be directly used using there call functions. To use these models in a piece of code you can see the trial.py file. Which gives an example of the working if all the three models.
